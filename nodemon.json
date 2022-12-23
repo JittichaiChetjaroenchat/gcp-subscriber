@@ -1,0 +1,7 @@
+{
+    "execMap": {
+        "watch": ["src"],
+        "ext": "js,json",
+        "exec": "ts-node ./src/worker.js"
+    }
+}
